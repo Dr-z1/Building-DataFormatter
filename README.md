@@ -1,45 +1,58 @@
-# Building-DataFormatter
-Building DataFormatter 
+# **Spam Filter Project**
 
-Build A DataFormatter  Project
-
-One Page Build A DataFormatter 
-
-This Website Was Built Using Free Code Camp instructions: Learn To Build A DataFormatter Using JavaScript
-
-Section: JavaScript Algorithms and Data Structures (Beta)
-
-Course Name: Learn To Build A DataFormatter Using JavaScript
-
-Deatils:
-
-Building DataFormatter
-
-Working with dates in JavaScript can be challenging. 
-
-You have to navigate various methods, formats, and time zones. 
-
-In this project, you'll learn how to work with the JavaScript Date object, including its methods and properties. 
-
-You'll also learn how to correctly format dates.
-
-This project will cover concepts such as the getDate(), getMonth(), and getFullYear() methods.
-
-Link:
-
-https://www.freecodecamp.org/
+## **Project Overview**
 
 
+#### This Project Is A **Data Formatter**, Developed As Part of The FreeCodeCamp Curriculum. 
+
+#### The Primary Goal Is Learn The Data Object By Building A Data Formatter
+
+
+## **Course Details**
+
+
++ **Course Section**: JavaScript Algorithms and Data Structures (Beta).
+  
++ **Project Name**: Data Formatter Project.
+  
++ This Site Was Built Using **[Free Code Camp](https://www.freecodecamp.org/).**
+  
++ This Project Is One of The **Required Tasks** To Earn The Certification In JavaScript Algorithms and Data Structures.
+  
+
+## **Purpose**
+
+Working With Dates In JavaScript Can Be Challenging. You Have To Navigate Various Methods, Formats, And Time Zones. 
+
+In This Project, You'll Learn How To Work With The JavaScript Date Object, Including Its Methods And Properties. 
+
+You'll Also Learn How To Correctly Format Dates.  
+
+This Project Will Cover Concepts Such As The GetDate(), GetMonth(), And GetFullYear() Methods.
+
+
+## **Acknowledgment**
+
+
+This Project Was Created Following The Instructions Provided By **FreeCodeCamp**.
+
+All Rights To This Project And Its Related Materials Belong To **FreeCodeCamp**, A Free Educational Platform Offering Structured Courses And Hands-On Projects.
+
+I Am Showcasing This Project As Part Of My Learning Journey, Completed Based On **FreeCodeCamp's Resources And Guidance.**
+
+A Big Thank You To **FreeCodeCamp** For Their Well-Structured Curriculum, Projects, And Partially Provided Code Snippets That Made This Project Possible.
+
+## **Special Thanks**
+
+I Would Also Like To Extend **My Gratitude** To The Following Channels For Their Guidance In Writing The Code:
+
+**[@codeManS](https://www.youtube.com/@codeManS)**
+
+**[@landonschlangen](https://www.youtube.com/@landonschlangen)**
+
+These Resources Provided Valuable Insights And Helped Me Refine My Coding Skills.
 
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-This WebSite or Project Was Built Using The Instructions of The Free Code Camp  WebSite.
-
-Therefore, All Rights In This WebSite or Project Belong To The Free Code Camp Site, A Free Educational Site That Contains Many Projects.
-
-I Am Only Reviewing The Project After Building It From Their Site, So The Project Does Not Belong To Me.
-
-I Would Like To thank The Educational Website Free Code Camp For Teaching Me By Providing Projects , Instructions , And Part of The Codes
